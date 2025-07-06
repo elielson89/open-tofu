@@ -1,1 +1,2 @@
-# open-tofu
+# Open Tofu
+-> inicializando primeito projeto
