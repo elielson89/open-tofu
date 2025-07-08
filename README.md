@@ -12,3 +12,5 @@ aaa
 =======
 aa2
 >>>>>>> 413b02c (mias uma atualização)
+>>>>>>>
+>>>>>>> atualizando no github
